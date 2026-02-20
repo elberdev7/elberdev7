@@ -1,7 +1,7 @@
 ## Olá , me chamo Élber 💻
 
-💻 I use some programs like: javascript, mysql, python 💻 ||
-💻 I am currently studying ADS (Analysis and Development of Systems).💻
+💻 Eu estudo ( Análise e Desenvolvimento de Sistemas). 💻 ||
+💻 Eu uso alguns programas como: javascript, mysql , python 💻
 
 <div>
 <a href="https://www.instagram.com/elbersantosxz" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
